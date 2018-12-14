@@ -1,0 +1,8 @@
+venv/
+.idea/
+.DS_Store
+.ipynb_checkpoints/
+data/
+genres/
+mfcc_data/
+chroma_data/
